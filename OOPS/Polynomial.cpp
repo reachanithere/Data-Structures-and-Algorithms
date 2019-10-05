@@ -32,8 +32,6 @@ Line 7 : Integer C, choice representing the function to be called (See main for 
 
 Sample Input 1 :
 
-3
-1 3 5
 1 2 -4
 4
 0 1 2 3
