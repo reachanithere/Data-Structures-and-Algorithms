@@ -22,8 +22,7 @@ Sample Output 1 :
 
 Sample Input 2 :
 
-3 4 5 2 6 1 9 -1
-0
+3 4 5 2 6 1 9
 
 Sample Output 2 :
 
