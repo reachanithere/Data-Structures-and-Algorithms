@@ -41,9 +41,9 @@ class Edge{
     int second;
     
     Edge(){
-        weight=0;
-        first=0;
-        second=0;
+        weight==0;
+        first==0;
+        second==0;
     }
     
     Edge(int w,int f,int s){
