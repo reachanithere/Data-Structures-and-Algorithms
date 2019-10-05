@@ -24,7 +24,6 @@ Sample Input 1 :
 
 Sample Output 1 :
 
-0 0
 1 3
 2 4
 3 5
