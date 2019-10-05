@@ -56,8 +56,6 @@ public:
 using namespace std;
 
 
-
-//Check the finalHead and finalTail approach for making a new Linked List
 Node* mergeTwoLLs(Node *head1, Node *head2) {
     /* Don't write main().
      * Don't read input, it is passed as function argument.
